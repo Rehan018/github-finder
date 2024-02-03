@@ -1,4 +1,4 @@
-# Project Documentation: GitHub Finder Demo[here](https://github-finder-ga54.onrender.com/)
+# Project Documentation: GitHub Finder [Demo](https://github-finder-ga54.onrender.com/)
 
 ## Table of Contents
 1. [Introduction](#introduction)
